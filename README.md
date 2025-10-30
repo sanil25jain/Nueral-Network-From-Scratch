@@ -1,3 +1,3 @@
 first commit
 
-![Alt text](/Users/SJ/Documents/Nueral-Network-From-Scratch/nn.jpg)
+![Alt text](nn.jpg)
